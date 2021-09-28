@@ -72,5 +72,6 @@ public class ClientConnection {
 			return false;
 		}
 	}
+	public boolean
 	
 }
